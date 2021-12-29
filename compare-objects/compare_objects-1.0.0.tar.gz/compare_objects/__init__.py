@@ -1,0 +1,2 @@
+from .CompareObjectsWithInfo import compare_objects_with_info
+from .CompareObjects import compare_objects
